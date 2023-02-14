@@ -10,6 +10,8 @@ This app includes a frontend site that displays data about cookie stands. It als
 
 ## Links and Resources
 
+[Deployed Server](https://cookie-stand-api-six.vercel.app/)
+
 [ElephantSQL](https://api.elephantsql.com/console/85760e34-8351-4df0-8088-8c1ba03f1eb6/browser?#)
 
 ## Setup
@@ -26,8 +28,8 @@ This app includes a frontend site that displays data about cookie stands. It als
 
 docker compose up
 
-Frontend: http://0.0.0.0:8000/
+Frontend: [FrontEnd Server](https://cookie-stand-admin-murex-nu.vercel.app/)
 
-Backend: http://0.0.0.0:8000/api/v1/cookie_stand/
+Backend: [backend Server](https://cookie-stand-api-six.vercel.app/)
 
 Admin: http://0.0.0.0:8000/admin/
